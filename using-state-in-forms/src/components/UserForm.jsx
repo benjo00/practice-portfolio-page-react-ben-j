@@ -20,7 +20,7 @@ function UserForm() {
     const handleSubmit = (e) => {
       
       alert("Form submitted !!!!! WOOOOOOOOOOOOOOO");
-      console.log("Form submitted:", formData);
+      
     };
    
     return (
