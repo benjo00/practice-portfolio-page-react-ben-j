@@ -42,8 +42,8 @@ function UserForm() {
          </label>
          <br />
          <label>
-           Feeback:
-           <input id = "input   "
+           Feedback:
+           <input id = "input"
              type="text"
              name="feedback"
              value={formData.feedback}

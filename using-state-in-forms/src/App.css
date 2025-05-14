@@ -10,5 +10,10 @@ body {
 
 #input {
   border: solid;
-  padding: 30%
+  padding: 30%;
+}
+
+#preview {
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
